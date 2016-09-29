@@ -29,7 +29,7 @@ I. ANGULAR.js MVC
     <li ng-repeat="item in games">
       {{ item.name }}: {{ item.rating }} stars
     </li>
-  </li>
+  </ul>
 </body>
 </html>
 ```
