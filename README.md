@@ -1,4 +1,4 @@
-# angular_js
+# angular_lab
 
 I. ANGULAR.js MVC
   - VIEWS are in charge on almost everything
